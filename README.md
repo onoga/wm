@@ -8,10 +8,10 @@ INSTALLATION
 
 to Webware\WebKit\Configs\Application.config  
 
-add line  
+add line    
 Contexts['wm'] = 'c:\\projects\\wm\\wkroot'  
 
-change settings 
+change settings  
 SessionStore = 'Memory' # can be File, Dynamic, Memcached, Memory or Shelve  
 ExtraPathInfo = False # no extra path info  
 
